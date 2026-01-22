@@ -1,36 +1,69 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# SEO Prompt Architect 🏛️✨
 
-## Getting Started
+![Version](https://img.shields.io/badge/version-2.5-blue.svg?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)
+![Author](https://img.shields.io/badge/author-Enes-purple.svg?style=flat-square)
 
-First, run the development server:
+**SEO Prompt Architect**, hukuksal içerik üretimi için tasarlanmış profesyonel bir prompt mühendisliği ve görsel optimizasyon aracıdır. Modern **"Dark Luxury Tech"** tasarımı ve kullanıcı dostu arayüzü ile içerik üreticilerinin iş akışını hızlandırır.
+
+![App Preview](public/preview.png)
+
+## 🚀 Özellikler
+
+### 🧠 Akıllı Prompt Üretimi
+*   **Otomatik Şablonlama**: Tek bir başlık girişi ile Giriş, Gelişme, Sonuç ve Metadata için optimize edilmiş promptlar üretir.
+*   **Hukuk Odaklı**: Türk hukuku makaleleri için özel olarak eğitilmiş sistem komutları içerir.
+*   **Tek Tıkla Kopyalama**: Üretilen promptları anında panoya kopyalayın.
+
+### 🖼️ Görsel Optimizasyon Aracı
+*   **Akıllı Sıkıştırma**: PNG ve JPG görsellerini, kalite kaybı olmadan modern **WebP** formatına dönüştürür.
+*   **Side-by-Side Karşılaştırma**: Orijinal ve optimize edilmiş görseli yan yana inceleyin.
+*   **Gizlilik Odaklı**: Tüm işlemler tarayıcı içinde gerçekleşir, sunucuya dosya yüklenmez.
+
+### 🎨 Premium Tasarım
+*   **Dark Luxury Tema**: Göz yormayan, derin uzay gradyanları ve glassmorphism efektleri.
+*   **Duyarlı Arayüz**: Mobil ve masaüstü uyumlu akıcı deneyim.
+*   **Mikro Etkileşimler**: Kullanıcı deneyimini zenginleştiren ince animasyonlar.
+
+## 🛠️ Teknolojiler
+
+Bu proje, modern web teknolojilerinin en güncel sürümleri kullanılarak geliştirilmiştir:
+
+*   **Framework**: [Next.js 14](https://nextjs.org/) (App Directory) for high performance.
+*   **Language**: [TypeScript](https://www.typescriptlang.org/) for type safety.
+*   **Styling**: [Tailwind CSS](https://tailwindcss.com/) for rapid UI development.
+*   **Icons**: [Lucide React](https://lucide.dev/) for beautiful SVG icons.
+*   **Deployment**: Vercel ready.
+
+## 📦 Kurulum
+
+Projeyi yerel ortamınızda çalıştırmak için:
 
 ```bash
+# Depoyu klonlayın
+git clone https://github.com/EnessEyup/seo-prompt-architect.git
+
+# Proje dizinine gidin
+cd seo-prompt-architect
+
+# Bağımlılıkları yükleyin
+npm install
+
+# Geliştirme sunucusunu başlatın
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Tarayıcınızda `http://localhost:3000` adresine giderek uygulamayı görüntüleyebilirsiniz.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 👤 Geliştirici
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**Enes Eyüpoğlu** tarafından tasarlanmış ve geliştirilmiştir.
 
-## Learn More
+*   [GitHub](https://github.com/EnessEyup)
+*   [LinkedIn](https://www.linkedin.com/in/enes-ey%C3%BCpo%C4%9Flu-a0987a265)
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<p align="center">
+  Made with <span style="color: #e25555;">&hearts;</span> and <span style="color: #4facfe;">Code</span>
+</p>
