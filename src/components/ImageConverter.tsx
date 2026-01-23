@@ -203,8 +203,8 @@ export function ImageConverter() {
                                 {!convertedUrl ? (
                                     <div className="h-full flex flex-col justify-center items-center p-8 rounded-2xl border border-dashed border-white/10 bg-white/[0.01]">
                                         <div className="text-center mb-8 max-w-xs">
-                                            <h5 className="text-xl font-semibold text-white mb-2">WebP'ye Dönüştür</h5>
-                                            <p className="text-white/40 text-sm">Görsel kalitesini koruyarak dosya boyutunu %90'a kadar düşürün.</p>
+                                            <h5 className="text-xl font-semibold text-white mb-2">WebP&apos;ye Dönüştür</h5>
+                                            <p className="text-white/40 text-sm">Görsel kalitesini koruyarak dosya boyutunu %90&apos;a kadar düşürün.</p>
                                         </div>
 
                                         <button
